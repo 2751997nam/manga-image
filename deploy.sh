@@ -1,0 +1,1 @@
+ssh root@manhwaplus.net -t 'cd /home/manga-image && git pull && pm2 restart manga-image'
